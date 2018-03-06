@@ -1,0 +1,7 @@
+＃有关忽略文件的更多信息，请参阅https://help.github.com/ignore-files/。
+
+# dependencies
+/node_modules
+
+# production
+/dist
