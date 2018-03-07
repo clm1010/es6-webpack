@@ -1,14 +1,14 @@
-## es6-webpack
+# es6-webpack
 
-### 安装
+## 安装
 
-首先下载源码
+下载
 
 ```shell
 git clone https://github.com/clm1010/es6-webpack.git
 ```
 
-然后安装
+安装
 
 ```shell
 npm i
