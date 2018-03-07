@@ -3,5 +3,5 @@
 # dependencies
 /node_modules
 
-# production
+# 打包目录
 /dist
