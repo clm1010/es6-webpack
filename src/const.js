@@ -5,3 +5,9 @@ Object.defineProperty(window,"PI2",{
 })
 
 console.log(window.PI2)
+
+//ES6中常量写法
+const PI = 3.1415926
+console.log(PI)
+
+// PI = 4 // "PI" is read-only 只读
